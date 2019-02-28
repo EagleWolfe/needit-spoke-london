@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Days Ago Date">a11ed6dfdb33230034de5901cf9619c3</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot display_value="">a42c929fdb33230034de5901cf961911</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Action Test Flow">6ac3f21fdb73230034de5901cf9619d3</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 19:57:23</sys_created_on>
+        <sys_id>62c3f21fdb73230034de5901cf9619e9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_317376_needit_sp">e2c0d2d3db33230034de5901cf961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">e2c0d2d3db33230034de5901cf961948</sys_scope>
+        <sys_update_name>sys_hub_action_instance_62c3f21fdb73230034de5901cf9619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-28 19:57:23</sys_updated_on>
+        <ui_id>6440b037-793f-4f6f-b4a1-49260630c7ea</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=62c3f21fdb73230034de5901cf9619e9"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>62c3f21fdb73230034de5901cf9619e9</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 19:57:23</sys_created_on>
+        <sys_id>b6c3f21fdb73230034de5901cf9619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-28 19:57:23</sys_updated_on>
+        <value>12</value>
+        <variable display_value="">6d1ed6dfdb33230034de5901cf9619c5</variable>
+    </sys_variable_value>
+</record_update>
